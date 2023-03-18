@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <History>True|2022-12-14T08:22:58.4814484Z;True|2022-12-14T09:21:49.4553710+01:00;True|2022-12-13T23:20:11.8019798+01:00;True|2022-12-13T23:11:52.9227823+01:00;True|2022-12-13T23:10:08.9611818+01:00;True|2022-12-13T23:05:43.5520229+01:00;True|2022-12-13T23:02:21.6319422+01:00;True|2022-12-13T22:09:56.6084107+01:00;True|2022-12-13T00:09:20.3024191+01:00;False|2022-12-13T00:09:11.4137325+01:00;</History>
+    <_PublishTargetUrl>C:\Users\valmirs\source\repos\WebApp.CQRS.Patter\WebApp.Sipmple.Pattern\bin\Release\net5.0\publish\</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>

@@ -3,3 +3,11 @@
 ################################################################################
 
 /WebApp.CQRS.Data/bin
+/.vs
+/WebApp.CQRS.Data/obj
+/Webapp.CQRS.DDB.Pattern/bin
+/Webapp.CQRS.DDB.Pattern/obj
+/WebApp.CQRS.Patter/bin
+/WebApp.CQRS.Patter/obj
+/WebApp.Sipmple.Pattern/bin
+/WebApp.Sipmple.Pattern/obj

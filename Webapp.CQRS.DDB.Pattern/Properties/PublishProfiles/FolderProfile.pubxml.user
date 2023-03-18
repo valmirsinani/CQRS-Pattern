@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\valmirs\source\repos\WebApp.CQRS.Patter\Webapp.CQRS.DDB.Pattern\bin\Release\net5.0\publish\v1</_PublishTargetUrl>
+    <History>True|2022-12-30T22:23:44.9400381Z;</History>
+  </PropertyGroup>
+</Project>
